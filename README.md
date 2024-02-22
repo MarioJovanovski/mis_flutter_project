@@ -1,16 +1,4 @@
-# flutter_dom2
+Се работи за online продавница за кафе,
+За да го превземете проектот ќе треба да направите pull од ова repo.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+За да се логирате ќе треба да направите акаунт и да се логирате на апликацијата. 
